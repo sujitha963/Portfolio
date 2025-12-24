@@ -1,0 +1,1 @@
+console.log("Sujitha's lavender portfolio loaded successfully");
