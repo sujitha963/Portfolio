@@ -16,3 +16,6 @@ Live URL: [Add your AWS S3 link here]
 - CSS
 - JavaScript
 - AWS S3
+
+Output:
+
